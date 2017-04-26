@@ -1,7 +1,7 @@
-<svg height="798" width="720" xmlns="http://www.w3.org/2000/svg">
-<rect height="798" fill="#555" width="720"></rect>
+<svg height="830" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="830" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">10 megabytes installed</tspan>
+<tspan x="10" y="26">11 megabytes installed</tspan>
 <tspan x="10" y="42"></tspan>
 <tspan x="10" y="58">node_modules</tspan>
 <tspan x="10" y="74">└─┬ ml@2.0.0 </tspan>
@@ -20,34 +20,36 @@
 <tspan x="10" y="282">  │ └── new-array@1.0.0 </tspan>
 <tspan x="10" y="298">  ├─┬ ml-hclust@1.3.0 </tspan>
 <tspan x="10" y="314">  │ └── heap@0.2.6 </tspan>
-<tspan x="10" y="330">  ├─┬ ml-kernel@2.3.2 </tspan>
+<tspan x="10" y="330">  ├─┬ ml-kernel@2.3.3 </tspan>
 <tspan x="10" y="346">  │ ├── ml-kernel-gaussian@2.0.1 </tspan>
 <tspan x="10" y="362">  │ ├── ml-kernel-polynomial@2.0.0 </tspan>
-<tspan x="10" y="378">  │ └── ml-kernel-sigmoid@1.0.0 </tspan>
-<tspan x="10" y="394">  ├─┬ ml-kmeans@3.0.0 </tspan>
-<tspan x="10" y="410">  │ ├── ml-nearest-vector@1.0.1 </tspan>
-<tspan x="10" y="426">  │ └── RandomSelection@1.0.1 </tspan>
-<tspan x="10" y="442">  ├── ml-knn@1.0.0 </tspan>
-<tspan x="10" y="458">  ├── ml-matrix@2.3.0 </tspan>
-<tspan x="10" y="474">  ├── ml-naivebayes@1.0.3 </tspan>
-<tspan x="10" y="490">  ├── ml-optimize-lorentzian@0.1.4 </tspan>
-<tspan x="10" y="506">  ├─┬ ml-pad-array@1.0.0 </tspan>
-<tspan x="10" y="522">  │ └── extend@3.0.0 </tspan>
-<tspan x="10" y="538">  ├── ml-pca@1.1.2 </tspan>
-<tspan x="10" y="554">  ├── ml-performance@0.2.0 </tspan>
-<tspan x="10" y="570">  ├── ml-pls@0.1.1 </tspan>
-<tspan x="10" y="586">  ├─┬ ml-regression@4.2.0 </tspan>
-<tspan x="10" y="602">  │ └─┬ is-integer@1.0.6 </tspan>
-<tspan x="10" y="618">  │   └── is-finite@1.0.2 </tspan>
-<tspan x="10" y="634">  ├── ml-savitzky-golay@2.0.4 </tspan>
-<tspan x="10" y="650">  ├─┬ ml-savitzky-golay-generalized@1.1.0 </tspan>
-<tspan x="10" y="666">  │ └── ml-stat@1.1.0 </tspan>
-<tspan x="10" y="682">  ├── ml-som@0.0.6 </tspan>
-<tspan x="10" y="698">  ├── ml-sparse-matrix@0.2.1 </tspan>
-<tspan x="10" y="714">  ├── ml-stat@1.3.3 </tspan>
-<tspan x="10" y="730">  ├── ml-svm@2.1.2 </tspan>
-<tspan x="10" y="746">  ├── ml-xsadd@1.0.0 </tspan>
-<tspan x="10" y="762">  └─┬ num-sort@1.0.0 </tspan>
-<tspan x="10" y="778">    └── number-is-nan@1.0.1</tspan>
+<tspan x="10" y="378">  │ ├── ml-kernel-sigmoid@1.0.0 </tspan>
+<tspan x="10" y="394">  │ └── ml-matrix@3.0.0 </tspan>
+<tspan x="10" y="410">  ├─┬ ml-kmeans@3.0.0 </tspan>
+<tspan x="10" y="426">  │ ├── ml-nearest-vector@1.0.1 </tspan>
+<tspan x="10" y="442">  │ └── RandomSelection@1.0.1 </tspan>
+<tspan x="10" y="458">  ├── ml-knn@1.0.0 </tspan>
+<tspan x="10" y="474">  ├── ml-matrix@2.3.0 </tspan>
+<tspan x="10" y="490">  ├── ml-naivebayes@1.0.3 </tspan>
+<tspan x="10" y="506">  ├── ml-optimize-lorentzian@0.1.4 </tspan>
+<tspan x="10" y="522">  ├─┬ ml-pad-array@1.0.0 </tspan>
+<tspan x="10" y="538">  │ └── extend@3.0.0 </tspan>
+<tspan x="10" y="554">  ├── ml-pca@1.1.2 </tspan>
+<tspan x="10" y="570">  ├── ml-performance@0.2.0 </tspan>
+<tspan x="10" y="586">  ├── ml-pls@0.1.1 </tspan>
+<tspan x="10" y="602">  ├─┬ ml-regression@4.2.1 </tspan>
+<tspan x="10" y="618">  │ ├─┬ is-integer@1.0.6 </tspan>
+<tspan x="10" y="634">  │ │ └── is-finite@1.0.2 </tspan>
+<tspan x="10" y="650">  │ └── ml-matrix@3.0.0 </tspan>
+<tspan x="10" y="666">  ├── ml-savitzky-golay@2.0.4 </tspan>
+<tspan x="10" y="682">  ├─┬ ml-savitzky-golay-generalized@1.1.0 </tspan>
+<tspan x="10" y="698">  │ └── ml-stat@1.1.0 </tspan>
+<tspan x="10" y="714">  ├── ml-som@0.0.6 </tspan>
+<tspan x="10" y="730">  ├── ml-sparse-matrix@0.2.1 </tspan>
+<tspan x="10" y="746">  ├── ml-stat@1.3.3 </tspan>
+<tspan x="10" y="762">  ├── ml-svm@2.1.2 </tspan>
+<tspan x="10" y="778">  ├── ml-xsadd@1.0.0 </tspan>
+<tspan x="10" y="794">  └─┬ num-sort@1.0.0 </tspan>
+<tspan x="10" y="810">    └── number-is-nan@1.0.1</tspan>
 </text>
 </svg>
