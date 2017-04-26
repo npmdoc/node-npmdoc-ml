@@ -1,6 +1,6 @@
 # npmdoc-ml
 
-#### api documentation for  [ml (v2.0.0)](https://github.com/mljs/ml)  [![npm package](https://img.shields.io/npm/v/npmdoc-ml.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ml) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ml.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ml)
+#### basic api documentation for  [ml (v2.0.0)](https://github.com/mljs/ml)  [![npm package](https://img.shields.io/npm/v/npmdoc-ml.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ml) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ml.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ml)
 
 #### Machine learning tools
 
@@ -111,7 +111,8 @@
         "build": "cheminfo build --root ML",
         "test": "node -p \"void(require('./'));console.log('OK')\""
     },
-    "version": "2.0.0"
+    "version": "2.0.0",
+    "bin": {}
 }
 ```
 
